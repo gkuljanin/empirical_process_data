@@ -1,1 +1,3 @@
-# empirical_process_data
+# Manuscript
+
+This manuscript focuses on explaining the differences between empirical process data and empirical outcome data.
