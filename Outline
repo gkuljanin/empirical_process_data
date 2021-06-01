@@ -1,1 +1,65 @@
+# Empirical Process data
+Contributions: delinieating empirical process data and differing it from other types of data currently used in org research. Secondly, demonstrating what can be done with empirical process data (e.g. dynamic modeling, functional data analysis) and questions that can be answered with the data.
+1. Empirical process data
+* What does empirical process data look like?
+  * 
+* How does it differ from empirical outcome data? or other types of process data (e.g. several snapshots of reflections of teamwork)?
+  *
+* How to collect empirical process data?
+  *
+2. In basketball...
+* Outcome data: performance, scores, assists, etc... all of the things that occurred due to process but not process itself.
+3. In organizations...
+* satisfaction, lmx, etc... none of this captures work but instead just captures the results that emerge from work process.
 
+Process tells us how. How work is done and how you get your end-states. How you get to the states that you measured multiple times.
+## Central Sections of Paper (and content within outlined)
+### Why care about process in org research?
+  * ipo models dominate org research
+    * the p is essential
+      * process determines how inputs turn to outputs
+  * ipo models may limit the ability to understand or effectively construct interventions (processes are fundamental to interventions)
+    * we define process as a series of behaviors/interactions? OR we define process as a series of stages?
+    
+    the processes may be series of behaviors, affects, cognitions, or states
+    * the pattern of states/actions may be considered a developmental process?... outlining how states of constituents change over time
+    * the difference between the recently mentioned developmental process above and the process we discuss further here is 
+      * process outlines the relationship between multiple variables over time. (e.g. an intervention with understanding how one action influences the observed states/actions)
+    * process may also be flows between individuals, dyads, departments, etc.
+    * processes outline strategies for completing work
+      * processes may equally be a way of evaluating strategy
+        * a common method of management is management by objectives... 
+        this style directly implicates the IPO framework without invoking much attention to the process aspect. 
+        In fact, it can be argued that the MBO methods ignore or allow great flexibility in the process and evaluate only on the ability of turning inputs 
+        into desired outputs.
+  * we tend to ignore multilevel processes at work
+    * using baskeball as an example
+    individual players go through decision-making processes on which action to take. The outcome of these processes could be the decision to pass, shoot, etc. (decision-making management)
+    Using passing as an example, the pass that is the outcome of one player's decision making process is only one part of the team's process for accomplishing the goal of scoring. (team decision-making and action execution)
+    The attempt to score, i.e. a possession, is a part of the larger game process which determines the outcome of the game. (optimizing flow or patterns to win game)
+      * optimize (in-game human capital, strategy execution, decision-making)
+    There is also the season-level where there is a process to manage players across games (across game human capital management, resources to optimize lower levels)
+* At what level is your process being measured? At what level is your process managed/relevant?
+#### How have org researchers explored process?
+aggregated perceptual distant survey reflections of what happened or is happening.
+what happened to the team doing its work? what happened as I made that decision? What happened as the department tried to meet sales goals?
+How did the company become a market leader? How did our communication go as a team in the past (and then aggregate perceptions).
+
+The way we answer these questions does not really answer the question of "how" the sequences of events that occurred to the outcomes or the perceptions of the outcomes. (whatever you're measuring: cohesion, satisfaction, communication, efficacy, perf)
+
+### Introduction to empirical process data
+
+#### a table? of traditional org research data [temporality of data, number of variables, aggregation (# cases represented),.. ]
+* level 1 (cross-sectional survey data)
+* level 2 (cross-sectional experimental data)
+* level 3 (panel data defined by observing set of constructs at few snapshots in time)
+  * ESM studies (~ 14 data points)
+* level 4 (time-series) 
+  * focus on many data points across times but not necessarily lots of subjects
+  * e.g. sales over the year... still just demonstrates outcomes
+* level 5 (process data)
+  * intensive data collection
+  * captures how work is done and the sequence of events that unfold to end result (distinguish from some current temporal network analysis)
+#### contrasting empirical process data with org research data purporting to measure process
+##### compare and contrast what is required to collect types of data from a technological perspective
+##### compare and contrast what types of analyses you can do with different types of data 
