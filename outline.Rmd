@@ -1,0 +1,44 @@
+---
+title: "Outline"
+output:
+  word_document: default
+  html_document: default
+---
+
+* **A Call for Empirical Process Data Structures in OB and HRM Research and Practice (title of manuscript; opening statement section; we introduce the manuscript in this section)**
+  + What do we use data for? (first paragraph)
+  + What types of data do we typically collect and evaluate? (second paragraph)
+  + What types of data do we fail to collect? (third paragraph)
+  + What will readers learn from this manuscript? (fourth paragraph)
+  
+* **Typical Empirical Data Structures in OB and HRM Research and Practice (section; level 1 header; this section provides an overview of typical empirical data structures found in OB and HRM)**
+  + Cross-Sectional Observational and Experimental Data (sub-section; level 2 header)
+    + Multilevel Data (sub-section; level 3 header)
+  + Panel Longitudinal (Repeated Measures) Data (sub-section; level 2 header)
+    + Time Series Data (sub-section; level 3 header)
+  
+* **Empirical Process Data Structures (section; level 1 header; this section provides an overview of empirical process data structures)**
+  + Definition (sub-section; level 2 header)
+  + Comparisons (sub-section; level 2 header)
+    + Focus on actions and work instead of aggregated and often perceptual and memory-based inputs, processes, and outputs
+  + Benefits (sub-section; level 2 header)
+    + Finer-grained representation of processes
+    + Empirical study of self-organization and emergence
+    + Mapping of nested time structures (strategies for a performance episode composing a project, a set of performance episodes composing a project, a set of projects)
+    + Investigation of process strategies
+  + Process Data Collection Technology
+    + Already present for decades: e-mails, calendars, documents, chat messaging
+    + Video recordings: virtual or live meetings
+    + Databases of employee work activities
+    + Sociometric badges
+  
+* **An Analytical Example of Empirical Process Data Tracking Basketball Teams**
+  + Empirical Process Data Analytics (sub-section; level 2 header)
+  + Basketball Teams (sub-section; level 2 header)
+  
+* **A Future with Empirical Process Data Structures in OB and HRM**
+  + Deeper tests of theory
+  + Developing empirical process knowledge 
+  + Evaluating organizational work strategies
+  + Improving the daily lived experience of employees
+  
