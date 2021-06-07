@@ -5,39 +5,51 @@ output:
   html_document: default
 ---
 
-* **A Call for Empirical Process Data Structures in OB and HRM Research and Practice (title of manuscript; opening statement section; we introduce the manuscript in this section)**
+* # A Call for Empirical Process Data Structures in OB and HRM Research and Practice (title of manuscript; opening statement section; we introduce the manuscript in this section)
   + What do we use data for? (first paragraph)
   + What types of data do we typically collect and evaluate? (second paragraph)
   + What types of data do we fail to collect? (third paragraph)
   + What will readers learn from this manuscript? (fourth paragraph)
   
-* **Typical Empirical Data Structures in OB and HRM Research and Practice (section; level 1 header; this section provides an overview of typical empirical data structures found in OB and HRM)**
-  + Cross-Sectional Observational and Experimental Data (sub-section; level 2 header)
-    + Multilevel Data (sub-section; level 3 header)
-  + Panel Longitudinal (Repeated Measures) Data (sub-section; level 2 header)
-    + Time Series Data (sub-section; level 3 header)
+* # Typical Empirical Data Structures in OB and HRM Research and Practice (section; level 1 header; this section provides an overview of typical empirical data structures found in OB and HRM)
+  + ## Cross-Sectional Observational and Experimental Data (sub-section; level 2 header)
+    + Distinguished by a single snapshot measuring affect, cognition, behavior, or social relations
+    + ### Multilevel Data (sub-section; level 3 header)
+      + Distinguished by nested data structures
+  + ## Panel Longitudinal (Repeated Measures) Data (sub-section; level 2 header)
+    + Distinguished by multiple snapshots measuring many units
+    + ### Time Series Data (sub-section; level 3 header)
+      + Distinguished by observing many snapshots generally measuring only a few units
   
-* **Empirical Process Data Structures (section; level 1 header; this section provides an overview of empirical process data structures)**
-  + Definition (sub-section; level 2 header)
-  + Comparisons (sub-section; level 2 header)
+* # Empirical Process Data Structures (section; level 1 header; this section provides an overview of empirical process data structures)
+  + ## Distinguishing Empirical Process Data from Typical Empirical Data Structures in OB and HRM (sub-section; level 2 header)
+    + Sequences of actions, thoughts, feelings, communications, or events capturing work as it happens instead of status updates of states
     + Focus on actions and work instead of aggregated and often perceptual and memory-based inputs, processes, and outputs
-  + Benefits (sub-section; level 2 header)
+  + ## Benefits of Empirical Process Data (sub-section; level 2 header)
     + Finer-grained representation of processes
     + Empirical study of self-organization and emergence
     + Mapping of nested time structures (strategies for a performance episode composing a project, a set of performance episodes composing a project, a set of projects)
     + Investigation of process strategies
-  + Process Data Collection Technology
+    
+* # Collecting and Analyzing Empirical Process Data (section; level 1 header; this section provides and overview of how to actually collect and analyze empirical process data)
+  + ## Process Data Collection Technologies (sub-section; level 2 header)
     + Already present for decades: e-mails, calendars, documents, chat messaging
     + Video recordings: virtual or live meetings
     + Databases of employee work activities
     + Sociometric badges
+  + ## Process Analytics (sub-section; level 2 header)
+    + ### Descriptive Computations (sub-section; level 3 header)
+    + ### Workflow Networks with Process Maps (sub-section; level 3 header)
+    + ### Event Models (sub-section; level 3 header)
+    + ### Process Clustering (sub-section; level 3 header)
+    + ### Computational Models (sub-section; level 3 header)
   
-* **An Analytical Example of Empirical Process Data Tracking Basketball Teams**
-  + Empirical Process Data Analytics (sub-section; level 2 header)
-  + Basketball Teams (sub-section; level 2 header)
+* # An Analytical Example of Empirical Process Data: Tracking the Work of Basketball Teams (section; level 1 header; this section provides an example of how to collect empirical process data and perform basic analytics on empirical process data)
+  + ## Example of Work Process Data for Basketball Teams (sub-section; level 2 header)
+  + ## Example of Work Process Analytics for Basketball Teams (sub-section; level 2 header)
   
-* **A Future with Empirical Process Data Structures in OB and HRM**
-  + Deeper tests of theory
+* # A Future with Empirical Process Data Structures in OB and HRM (section; level 1 header; this section concludes with the benefits of collecting and analyzing empirical process data)
+  + Deeper, stronger tests of theory
   + Developing empirical process knowledge 
   + Evaluating organizational work strategies
   + Improving the daily lived experience of employees
